@@ -11,7 +11,7 @@
 
 - 💬 Let's talk about **work, technology, trading, or anything else :)**
 
-- 📫 Add me on LinkedIn **[LinkedIn](https://www.linkedin.com/in/claudiobosorio/)**
+- 📫 Add me on **[LinkedIn](https://www.linkedin.com/in/claudiobosorio/)**
 
 - ⚡ Here is a fun fact about me: **I did not know or use the internet until I was 19 years old, and I am not that old...**
 
