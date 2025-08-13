@@ -13,8 +13,6 @@
 
 - 📫 Add me on **[LinkedIn](https://www.linkedin.com/in/claudiobosorio/)**
 
-- ⚡ Here is a fun fact about me: **I did not know or use the internet until I was 19 years old, and I am not that old...**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/claudiobosorio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="claudiobosorio" height="30" width="40" /></a>
