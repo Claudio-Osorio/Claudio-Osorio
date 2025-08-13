@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=claudio-osorio" alt="claudio-osorio" /></a> </p>
 
-- 🔭 I am currently working on [Supplier Order Management Software](https://github.com/Claudio-Osorio/Supplier-Order-Management-Software)
+- 🔭 I am currently working on Private Projects.
 
 - 🌱 I am currently learning **Docker, Django, React, Angular, JavaScript**
 
