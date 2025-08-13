@@ -7,7 +7,7 @@
 
 - 🔭 I am currently working on Private Projects.
 
-- 🌱 I am currently learning **Docker, Django, React, Angular, JavaScript**
+- 🌱 I am currently mastering **Django** and **React**
 
 - 💬 Let's talk about **work, technology, trading, or anything else :)**
 
